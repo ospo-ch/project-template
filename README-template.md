@@ -21,16 +21,9 @@ include:
 --> 
 
 ## Contributing
-<!-- Template: https://github.com/ospo-ch/project-template/blob/main/CONTRIBUTING.md -->
 
-Our project welcomes contributions from any member of our community. To get
-started contributing, please see our [Contributor Guide](TODO: Link to
-CONTRIBUTING.md).
+To contribute, please follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md) and the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## Conduct
-
-<!-- Template: https://github.com/ospo-ch/project-template/blob/main/CODE_OF_CONDUCT.md -->
-We follow the Contributor Covenant Code of Conduct [TODO: Insert link to your CODE_OF_CONDUCT.md file].
 
 ## License
 
